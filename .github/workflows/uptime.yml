@@ -2,7 +2,7 @@ name: site verification
 on:
   push:
   schedule: 
-     - cron: */10 * * * *
+     - cron: "*/5 * * * *"
 jobs:
   pingsite:
     runs-on: ubuntu-latest
