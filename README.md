@@ -1,20 +1,20 @@
 # Dimension by HTML5 UP
 
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This repository contains the Web Files for the Website created during the Synergy-22 Web Development Workshop.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Technologies used:
 
-Demo images\* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Programming Languages:
+- HTML
+- SCSS
+- CSS
+- JavaScript
 
-(\* = not included)
+Tools:
+- Netlify:  For Web hosting and collecting responses
+- Twilio: API for customer communication
 
-AJ
-aj@lkn.io | @ajlkn
+Website Link: [Dimension](https://confident-jang-44f4e8.netlify.app/)
 
 Credits:
 
